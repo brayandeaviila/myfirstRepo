@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+    display: flex;
+}
+
+h1{
+    font-family: Helvetica;
+    margin: auto;
+    display: flex;
+    padding: auto;
+    text-align: center;
+    align-items: center;
+    color: whitesmoke;
+}
